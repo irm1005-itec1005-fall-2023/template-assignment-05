@@ -32,8 +32,6 @@
 
 The group project is spread out over a three week period. During Week 1 project teams will have a kick-off session where participants form teams, work towards defining a specific problem, and then sketch out a solution to solve their identified problem. Week 2 and week 3 will involve development, testing and deployment of their solution.
 
-Your Assignment 05 involves building and shipping an awesome and innovative Todo list app, as well as doing a basic code review on a team member's submission.
-
 Project teams must work together to build and deliver a product. Teams will have wide leeway on what they can build, though some possible options are below: 
 
 * E-Commerce website including categories, products, and a checkout
