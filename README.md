@@ -1,4 +1,4 @@
-# DRAFT - Assignment 05
+# Assignment 05
 
 **Course Title**: Web Development
 
@@ -6,13 +6,13 @@
 
 **Semester**: Fall 2023
 
-**Due Date**: 1:00 PM on December 8, 2023
+**Due Date**: 11:59 PM on December 8, 2023
 
 **Assessment**: This assignment is worth 15% of your final grade and marked out of 100.
 
 ## TLDR
 
-1. Sketch a concept that the team is going to build (microsite or mini game)
+1. Sketch a concept that the team is going to build (landing page or mini game)
 2. Build your prototype
 3. Commit your code to your assignment repository in GitHub.
 4. Turn on GitHub Pages in your assignment repository to host your web page online.
@@ -47,23 +47,22 @@ Students will also be assessed on their ability to commit their code to GitHub a
 
 ### Week 1 - Problem definition
 
-- Monday November 13th - Sunday November 19th
+- Monday November 20th - Sunday November 26th
 - Introduce project, discuss expectations and form teams.
 - Setup project repository on GitHub
-- Complete team canvas exercise
-- Publish product summary and initial product sketches
-- Obtain approval for project scope
+- Publish product description including initial product sketches
 
-### Week 2 and 3 - Initial developement and experimentation phase
+### Week 2 - Initial developement and experimentation phase
 
-- Monday November 20th - Sunday December 3rd
-- Begin research and initial development of the project
+- Monday November 27th - Sunday December 3rd
+- Begin initial development of the project
 
 
-### Week 4 - Final development and testing phase
+### Week 3 - Final development and testing phase
 
-- Monday December 3rd - Friday December 8th
+- Monday December 4rd - Friday December 8th
 - Continue development and testing of the project
+- Pair and share feedback exercise on Monday December 4th
 
 
 ## Schedule of deliverables
